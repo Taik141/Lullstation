@@ -1,5 +1,5 @@
 /obj/item/lampad
-	icon = 'icons/obj/lampad'
+	icon = 'icons/obj/lampad.dmi'
 	name = "Lampad"
 	desc = "lampad to vag station"´
 	flags = SLOT_BELT
