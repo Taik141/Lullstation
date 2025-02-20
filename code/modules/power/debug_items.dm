@@ -15,6 +15,7 @@
 		to_chat(user, "This device is not connected to a powernet")
 		return
 
+	else
 	to_chat(user, "Connected to powernet: [powernet]")
 	to_chat(user, "Available power: [num2text(powernet.avail, 20)] W")
 	to_chat(user, "Load: [num2text(powernet.viewload, 20)] W")
